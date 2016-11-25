@@ -1,5 +1,5 @@
 # cs120b-project
-My final project for CS120B at UCR.
+My final project for CS120B at UCR. It was written in early 2015.
 
 ##Technologies Used
 ATmega1284 microcontroller, Atmel Studio, 9 green LED lights, Keypad, LCD Display, Potentiometer 
